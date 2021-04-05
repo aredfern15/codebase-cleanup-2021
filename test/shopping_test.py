@@ -1,4 +1,6 @@
 
+#assisted by Professor Rossetti's screen sharing
+
 # TODO: import some code
 from app.shopping import format_usd
 
