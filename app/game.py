@@ -46,22 +46,22 @@ print("COMPUTER CHOICE:", c)
 
 if u == "rock":
     if c == "rock":
-        print("_______")
+        print("It's a tie!")
     elif c == "paper":
-        print("________")
+        print("The computer wins.")
     elif c == "scissors":
-        print("________")
+        print("The user wins!")
 elif u == "paper":
     if c == "rock":
-        print("_______")
+        print("The user wins!")
     elif c == "paper":
-        print("________")
+        print("It's a tie!")
     elif c == "scissors":
-        print("________")
+        print("The computer wins.")
 elif u == "scissors":
     if c == "rock":
-        print("_______")
+        print("The computer wins.")
     elif c == "paper":
-        print("________")
+        print("The user wins!")
     elif c == "scissors":
-        print("________")
+        print("It's a tie!")
