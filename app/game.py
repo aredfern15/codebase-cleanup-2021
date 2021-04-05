@@ -1,4 +1,5 @@
 
+#assisted by Professor Rossetti's screen sharing
 from random import choice
 
 valid_options = ["rock", "paper", "scissors"]

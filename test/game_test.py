@@ -1,4 +1,6 @@
 
+#assisted by Professor Rossetti's screen sharing
+
 from app.game import determine_winner
 
 
